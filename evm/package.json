@@ -1,0 +1,24 @@
+{
+	"author": "QBitFlow",
+	"dependencies": {
+		"@openzeppelin/contracts": "^5.6.1",
+		"hardhat": "^3.11.1"
+	},
+	"description": "QBitFlow test token for EVM chains",
+	"devDependencies": {
+		"@nomicfoundation/hardhat-ethers": "^4.0.15",
+		"@nomicfoundation/hardhat-toolbox-mocha-ethers": "^3.0.7",
+		"@types/node": "^26.1.2",
+		"dotenv": "^17.4.2",
+		"ethers": "^6.17.0",
+		"hardhat-deploy": "^2.0.10"
+	},
+	"license": "ISC",
+	"main": "index.js",
+	"name": "qbf-test-token-evm",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"type": "module",
+	"version": "1.0.0"
+}
