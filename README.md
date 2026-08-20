@@ -47,7 +47,7 @@ QBFT is modeled on the **USDC** token implementation (USDT behaves near-identica
 
 QBFT is **not** openly mintable. The mint authority is held by the QBitFlow app, and tokens are dispensed through the app's testnet faucet — the same way a tester would receive them in a real onboarding flow.
 
-To get test tokens, use the faucet in the QBitFlow app *(link: https://qbitflow.app/utils/faucets)*. Direct calls to the mint function will revert for anyone other than the mint authority.
+To get test tokens, use the faucet in the QBitFlow app *(link: https://qbitflow.app/tools/faucets)*. Direct calls to the mint function will revert for anyone other than the mint authority.
 
 ---
 
